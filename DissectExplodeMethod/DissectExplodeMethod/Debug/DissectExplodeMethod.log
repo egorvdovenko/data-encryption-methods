@@ -1,0 +1,3 @@
+﻿  Program.cpp
+C:\Users\Егор Вдовенко\source\repos\DissectExplodeMethod\DissectExplodeMethod\Program.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+  DissectExplodeMethod.vcxproj -> C:\Users\Егор Вдовенко\source\repos\DissectExplodeMethod\Debug\DissectExplodeMethod.exe
